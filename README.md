@@ -1,2 +1,2 @@
-# FARout
+# FarOut
 Lifestyle blog
